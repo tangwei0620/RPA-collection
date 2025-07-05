@@ -99,8 +99,8 @@ for i in range(2, count + 1):
 
 # 这里的token和secret替换为自己的钉钉群内机器人的信息。
 m = Messenger(
-    token='https://oapi.dingtalk.com/robot/send?access_token=6639d1c2961dc78ebd5482ab44fe2b84ea64d6fc2c72f34e4fce6324422486b1',
-    secret='SEC19ab4d5f7a4a45b11910fa88ad94243480a7237add76e62c91f45b4b6fca3fd1'
+    token='1',
+    secret='2'
 )
 
 title = date + "新闻联播"
